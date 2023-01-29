@@ -1,2 +1,3 @@
-# Coursera-Github-exercise
+I am editing the README file. Adding some more details about the project description.I am editing the README file. Adding some more details about the project description.# Coursera-Github-exercise
 Exercise
+
